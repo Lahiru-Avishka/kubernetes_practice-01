@@ -1,0 +1,4 @@
+state_subscription : 61f82aeb-5c08-4a8c-9989-6b3b9626036b
+state_resource_group : terraform-state
+state_storage_account : k8spracticestorage
+subscription_id: 61f82aeb-5c08-4a8c-9989-6b3b9626036b
